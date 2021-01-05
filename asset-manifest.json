@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/footballster/static/css/main.75890b66.chunk.css",
+    "main.js": "/footballster/static/js/main.b8f6f572.chunk.js",
+    "main.js.map": "/footballster/static/js/main.b8f6f572.chunk.js.map",
+    "runtime-main.js": "/footballster/static/js/runtime-main.789ae0a4.js",
+    "runtime-main.js.map": "/footballster/static/js/runtime-main.789ae0a4.js.map",
+    "static/js/2.8c91e709.chunk.js": "/footballster/static/js/2.8c91e709.chunk.js",
+    "static/js/2.8c91e709.chunk.js.map": "/footballster/static/js/2.8c91e709.chunk.js.map",
+    "index.html": "/footballster/index.html",
+    "static/css/main.75890b66.chunk.css.map": "/footballster/static/css/main.75890b66.chunk.css.map",
+    "static/js/2.8c91e709.chunk.js.LICENSE.txt": "/footballster/static/js/2.8c91e709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789ae0a4.js",
+    "static/js/2.8c91e709.chunk.js",
+    "static/css/main.75890b66.chunk.css",
+    "static/js/main.b8f6f572.chunk.js"
+  ]
+}
